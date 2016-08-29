@@ -4,7 +4,7 @@ class Luarocks51 < Formula
 
   homepage "http://luarocks.org"
   url "http://keplerproject.github.io/luarocks/releases/luarocks-2.3.0.tar.gz"
-  sha1 "68e38feeb66052e29ad1935a71b875194ed8b9c67c2223af5f4d4e3e2464ed97"
+  sha256 "68e38feeb66052e29ad1935a71b875194ed8b9c67c2223af5f4d4e3e2464ed97"
   revision 1
 
   bottle do
