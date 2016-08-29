@@ -24,7 +24,7 @@ You can also install directly from URL:
 brew install https://raw.githubusercontent.com/mesca/homebrew-luarocks/master/luarocks51.rb [--with-luajit]
 ```
 
-LuaRocks is then available as `luarocks-5.1` or `luarocks-jit`, depending of the selectect option.
+LuaRocks is then available as `luarocks-5.1` or `luarocks-jit`, depending of the selected option.
 
 ### For Lua 5.3
 
